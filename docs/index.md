@@ -2,7 +2,7 @@
 home: true
 heroText: 印客学院1231231
 tagline: 前端编码规范工程化
-actionText: 立刻进入 →
+actionText: 立刻进入123123 →
 actionLink: /coding/html.md
 
 features:
